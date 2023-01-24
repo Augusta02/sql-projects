@@ -24,6 +24,6 @@ Questions
 - Return the top 10 most profitable customers and how many times they have ordered from the store
 
 - Return the total number of orders, total number of items purchased, total revenue and total profit at the end of the period
--
+
 - Are there any users that abandoned all their orders? How many are they?
 
