@@ -5,9 +5,10 @@ Schema
 <img width="562" alt="Screen Shot 2023-01-24 at 9 26 37 AM" src="https://user-images.githubusercontent.com/61966991/214244029-e6d5d851-9699-4d60-b946-ac690aa5ce40.png">
 
 Questions
-How many users are in the database?
-How many baskets are in the database?
-What is the percentage of baskets that were abandoned?
+
+- How many users are in the database?
+- How many baskets are in the database?
+- What is the percentage of baskets that were abandoned?
 What is the percentage of baskets sold with discounts?
 What are the discounts?
 How many baskets are in each discount group?
