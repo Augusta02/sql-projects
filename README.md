@@ -2,7 +2,7 @@
 ## The She-Code Africa SQL project 
 This project is on Amazon Sales Data, I will be working on a sales dataset for this project, the data is currently in CSV format and you would need to import this into a database to be able to query the data using SQL.
 
-Schema 
+## Schema 
 
 <img width="562" alt="Screen Shot 2023-01-24 at 9 26 37 AM" src="https://user-images.githubusercontent.com/61966991/214244029-e6d5d851-9699-4d60-b946-ac690aa5ce40.png">
 
